@@ -2,7 +2,7 @@
 # 🛰️ AstroSentinel — Solar Weather Intelligence Platform
 
 > Real-time solar weather monitoring, AI-powered anomaly detection & satellite threat assessment.
-> Built for **Hackoverflow Glitch 2025** · Team PHCET
+> Built for **Hackoverflow 4.o** · Team GLITCH
 
 
 
