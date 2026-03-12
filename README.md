@@ -10,18 +10,7 @@
 ![Model](https://img.shields.io/badge/Model-HuggingFace-yellow?style=flat-square&logo=huggingface)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
----
 
-## 🚀 Live Demo
-
-| Service | URL |
-|---------|-----|
-| 🌐 **Frontend** | https://hackoverflow-glitch.vercel.app |
-| ⚙️ **Backend API** | https://hackoverflow-glitch.onrender.com/api/v1 |
-| 💓 **Health Check** | https://hackoverflow-glitch.onrender.com/api/v1/health |
-| 🤖 **Model API** | https://mrpranatha-astrosentinel-model.hf.space/health |
-
----
 
 ## 🌍 What Is AstroSentinel?
 
