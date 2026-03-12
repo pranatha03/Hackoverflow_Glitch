@@ -105,12 +105,12 @@ ISS · HST · GOES-16 · GOES-18 · DSCOVR · ACE · STEREO-A · SDO · WIND · 
 
 ---
 
-## 👥 Team PHCET
+## 👥 Team GLITCH
 
-Built with ❤️ at **Hackoverflow Glitch 2025**
+Built with ❤️ at **Hackoverflow 4.O 2026**
 
 ---
 
 ## 📄 License
 
-MIT © 2025 Team PHCET
+MIT © 2026 Team GLITCH
