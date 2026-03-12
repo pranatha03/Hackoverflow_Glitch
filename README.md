@@ -4,11 +4,6 @@
 > Real-time solar weather monitoring, AI-powered anomaly detection & satellite threat assessment.
 > Built for **Hackoverflow Glitch 2025** · Team PHCET
 
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-![Frontend](https://img.shields.io/badge/Frontend-Vercel-black?style=flat-square&logo=vercel)
-![Backend](https://img.shields.io/badge/Backend-Render-blue?style=flat-square)
-![Model](https://img.shields.io/badge/Model-HuggingFace-yellow?style=flat-square&logo=huggingface)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 
 
