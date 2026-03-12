@@ -1,6 +1,6 @@
-# Hackoverflow_Glitch
-# 🛰️ AstroSentinel — Solar Weather Intelligence Platform
 
+# 🛰️ AstroSentinel — Solar Weather Intelligence Platform
+# Hackoverflow_Glitch
 > Real-time solar weather monitoring, AI-powered anomaly detection & satellite threat assessment.
 > Built for **Hackoverflow 4.o** · Team GLITCH
 
